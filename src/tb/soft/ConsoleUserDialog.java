@@ -2,7 +2,7 @@ package tb.soft;
 /*
  * Program: Prosta biblioteka metod do realizacji dialogu z użytkownikiem
  *          w prostych aplikacjach bez graficznego interfejsu użytkownika.
- *    Plik: ConsoleUserDialog.java
+ *    Plik: tb.soft.ConsoleUserDialog.java
  *          
  *   Autor: Paweł Rogaliński
  *    Data: październik 2018 r.
@@ -116,10 +116,10 @@ public class ConsoleUserDialog {
 	            }
 	        }while(isError);
 	        return d;
-	    }   
+	    }
 
-		
-} // koniec kasy ConsoleUserDialog
+
+}
 
 
 
